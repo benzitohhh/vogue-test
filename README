@@ -1,0 +1,13 @@
+VOGUE
+********
+
+1. make sure this folder is
+a) on the Desktop i.e. ~/Desktop/vogue-test
+b) accessible via apache at http://localhost/vogue-test/
+
+2. start VOGUE:
+  cd ~/Desktop
+  vogue .
+
+Now you should be able to change a css file,
+and see the results instantly.
